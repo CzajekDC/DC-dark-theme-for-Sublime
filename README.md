@@ -1,4 +1,4 @@
-DC dark theme
+DC dark theme for Sublime Text 2 / Sublime Text 3
 =============
 
 This is a dark theme for Sublime Text 2/3 made by Dariusz Czajkowski.
