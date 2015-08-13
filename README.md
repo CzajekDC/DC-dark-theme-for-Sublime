@@ -6,15 +6,15 @@ DC dark theme for Sublime Text 2 / Sublime Text 3
 This is a dark theme for Sublime Text 2/3 made by Dariusz Czajkowski.
 Feel free to use it as far as you won't call it yours.
 
-<img src="http://darek.renaks.pl/images/DC-dark-theme-html.png">
-<img src="http://darek.renaks.pl/images/DC-dark-theme-css.png">
+<img src="http://darek.renaks.pl/projects/old_website/images/DC-dark-theme-html.png">
+<img src="http://darek.renaks.pl/projects/old_website/images/DC-dark-theme-css.png">
 
 ## Installation for 2 and 3
 ### Windows
 
 1. In Sublime in menu:
 Preferences>Browse Packages...
-2. Choose "User" folder and paste there [DC-dark-theme.tmTheme](https://github.com/CzajekDC/DC-dark-theme-for-Sublime/blob/master/DC-dark-theme.tmTheme) file.
+2. Choose "User" folder and paste there [DC-dark-theme.tmTheme](https://github.com/CzajekDC/DCDarkThemeForSublime/blob/master/DCDark.tmTheme) file.
 3. In Sublime:
 Preferences>Color Scheme>User>DC-dark-theme
 
@@ -22,7 +22,7 @@ Preferences>Color Scheme>User>DC-dark-theme
 
 1. In Sublime in menu:
 Sublime Text 2>Preferences>Browse Packages...
-2. Choose "User" folder and paste there [DC-dark-theme.tmTheme](https://github.com/CzajekDC/DC-dark-theme-for-Sublime/blob/master/DC-dark-theme.tmTheme) file.
+2. Choose "User" folder and paste there [DC-dark-theme.tmTheme](https://github.com/CzajekDC/DCDarkThemeForSublime/blob/master/DCDark.tmTheme) file.
 3. In Sublime:
 Preferences>Color Scheme>User>DC-dark-theme
 
