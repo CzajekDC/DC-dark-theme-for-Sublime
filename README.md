@@ -1,17 +1,17 @@
 DC dark color scheme for Sublime Text 2 / Sublime Text 3
 =============
 
-##Disclaimer
+## ⚠️ Disclaimer ⚠️
 
 I don't expand this color scheme anymore as I prefer Material Theme much more. You can find it here: https://github.com/equinusocio/material-theme.
 
-##Description
+## Description
 
 This is a dark color scheme for Sublime Text 2/3 made by Dariusz Czajkowski.
 Feel free to use it as far as you won't call it yours.
 
-<img src="http://darek.renaks.pl/projects/old_website/images/DC-dark-theme-html.png">
-<img src="http://darek.renaks.pl/projects/old_website/images/DC-dark-theme-css.png">
+<img src="https://i.imgur.com/tf4Oech.png">
+<img src="https://i.imgur.com/R2oGMsk.png">
 
 ## Installation for 2 and 3
 ### Windows
@@ -32,7 +32,7 @@ Preferences>Color Scheme>User>DC-dark-theme
 
 Feel free to come on my website: <a href="http://darek.renaks.pl/">http://darek.renaks.pl/</a>.
 
-##Licence
+## Licence
 
 Created under the [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
